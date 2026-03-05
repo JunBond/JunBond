@@ -1,7 +1,7 @@
 *"Remain true to our original aspiration"*
 
 [![GitHub](https://img.shields.io/badge/GitHub-JunBond-blue?style=flat&logo=github)](https://github.com/JunBond)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-green?style=flat&logo=google-scholar)](https://scholar.google.com/citations?user=-16o3-0AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-green?style=flat&logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=cQsctNcAAAAJ)
 [![Website](https://img.shields.io/badge/Website-JunBond.github.io-orange?style=flat&logo=firefox)](https://JunBond.github.io/)
 
 ## 👋 About Me
